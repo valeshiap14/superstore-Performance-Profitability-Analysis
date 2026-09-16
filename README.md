@@ -213,7 +213,9 @@ SuperStore-Analysis/
 └── data/
     └── superstore_cleaned.csv
 
-    ## Disclaimer
+
+
+## Disclaimer
 
 This project was originally developed as an academic assignment for the **Data Manipulation and Visualisation 600** module as part of my BSc Information Technology studies.
 
