@@ -197,6 +197,17 @@ The project was developed using:
 - Jupyter Notebook
 - PyCharm
 
+## Disclaimer
+
+This project was originally developed as an academic assignment for the **Data Manipulation and Visualisation 600** module as part of my BSc Information Technology studies.
+
+The project is shared on GitHub for educational, portfolio, and demonstration purposes. Its purpose is to showcase my practical skills in Python, data cleaning, exploratory data analysis, data visualisation, and interactive dashboard development.
+
+The dataset, analysis, findings, and recommendations were produced within the scope and requirements of the academic assignment and should not be treated as professional business or financial advice.
+
+Any institutional material or assignment requirements associated with this project remain the property of their respective owners.
+
+
 ## Project Structure
 
 ```text
@@ -213,14 +224,3 @@ SuperStore-Analysis/
 └── data/
     └── superstore_cleaned.csv
 
-
-
-## Disclaimer
-
-This project was originally developed as an academic assignment for the **Data Manipulation and Visualisation 600** module as part of my BSc Information Technology studies.
-
-The project is shared on GitHub for educational, portfolio, and demonstration purposes. Its purpose is to showcase my practical skills in Python, data cleaning, exploratory data analysis, data visualisation, and interactive dashboard development.
-
-The dataset, analysis, findings, and recommendations were produced within the scope and requirements of the academic assignment and should not be treated as professional business or financial advice.
-
-Any institutional material or assignment requirements associated with this project remain the property of their respective owners.
